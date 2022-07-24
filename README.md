@@ -10,11 +10,11 @@ This project is an expandable card component built using React. The card is anim
 
 ## Hover Animation
 
-<img src="documentation/hover1.fbr"/>
+<img src="documentation/hover1.gif"/>
 
 <br/>
 
 ## Expand Animation
 
-<img src="documentation/expand.fbr"/>
+<img src="documentation/expand.gif"/>
 # React-Animated-Card
